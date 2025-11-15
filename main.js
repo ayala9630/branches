@@ -1,5 +1,6 @@
 const a=()=>{
-    return 1
+    console.log(1)
+    return 2
 }
 
 const b=()=>{
