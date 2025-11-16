@@ -4,5 +4,5 @@ const a=()=>{
 }
 
 const b=()=>{
-    return 'b'
+    return 4
 }
