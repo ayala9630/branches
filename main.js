@@ -4,5 +4,6 @@ const a=()=>{
 }
 
 const b=()=>{
-    return 4
+    consol.log(4)
+    return 1
 }
